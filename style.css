@@ -1,0 +1,92 @@
+.rel{
+    background-image: url(IMAGE/A_Time_of_Change_Rachel_Brokaw.jpg);
+     height: 600px;
+     width: 1350px;
+ }
+ .firstdiv{
+     border: 2px black;
+     height: 60px;
+     border: 2px solid black;
+     border-radius: 20px;
+ }
+ .firstdiv img{
+     height: 30px;
+ }
+ span.a{
+     font-size: 30px;
+     color: white;
+     font-family: sans-serif;
+     font-weight: bolder;
+ }
+ span.b{
+     padding-left: 110px;
+     margin: 40px;
+     padding: 50px;
+ }
+ span.b input{
+     width: 750px;
+     height: 30px;
+     background-color: rgb(224, 214, 214);
+     border-radius: 4px;
+ }
+ span.c{
+     font-family: sans-serif;
+     padding-left: 140px;
+     color: white;
+     font-weight: bolder;
+ }
+ span.c button{
+     width: 80px;
+     height: 30px;
+     font-weight: bolder;
+     background-color: white;
+     border-radius: 5px;
+ }
+ .secondiv{
+     color: white;
+     font-family: sans-serif;
+     font-weight: bolder;
+     font-size: 50px;
+     text-align: center;
+     padding-top: 114px;
+ }
+ .thirdiv{
+     color: white;
+     font-family: sans-serif;
+     font-weight: bold;
+     font-size: 25px;
+     text-align: center;
+ 
+ }
+ .fourthdiv{
+     padding-left: 600px;
+ }
+ .fourthdiv button{
+     width: 170px;
+     height: 60px;
+     font-weight: bold;
+     font-size: 15px;
+     font-family: sans-serif;
+ }
+ .fifthdiv{
+     color: white;
+     font-family: sans-serif;
+     font-weight: bold;
+     font-size: 15px;
+     text-align: center;
+ }
+ .sixdiv{
+     border: 2px solid black;
+     height: 30px;
+     background-color: black;
+     width: 1350px;
+     color: grey;
+     font-style: initial;
+     word-spacing: 64px;
+     padding-top: 7px;
+     font-weight: 900;
+ }
+ .rel:hover{
+     background-image: url(IMAGE/Frosch_Bokeh_2_Axel_F.jpg);
+ }
+ 
